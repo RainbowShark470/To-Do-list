@@ -1,0 +1,36 @@
+.valuetask2{
+    text-decoration: line-through;
+ }
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid brown;
+    margin-bottom: 4px;
+}
+
+.save-input {
+    text-align: center;
+    display: block;
+    padding-top: 10px;
+}
+
+.todos-container {
+    padding-top: 25px;
+    margin-top: 15px;
+    text-align: center;
+    border-top: 2px dashed brown;
+}
